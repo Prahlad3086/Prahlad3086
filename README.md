@@ -7,7 +7,6 @@
 - 🔭 I just launched my portfolio
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other Web Developer
-- 🥅 2020 Goals: ....................................
 - ⚡ Fun fact: I love to codes and play Badmintion
 <br />
 
